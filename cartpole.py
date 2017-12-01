@@ -1,5 +1,5 @@
 import numpy as np
-import cPickle as pickle
+import pickle
 import tensorflow as tf
 
 import matplotlib.pyplot as plt
